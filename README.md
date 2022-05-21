@@ -1,0 +1,1 @@
+Занятие 27, проходили enum, stack, heap, github.
